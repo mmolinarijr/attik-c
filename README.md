@@ -8,8 +8,8 @@
 ### Tools and environment: 
 
 * _Language:_ Python
-* DataBase: Mysql
-* Text Editor: Atom
+* _DataBase:_ Mysql
+* _Text Editor:_ Atom
 
 ### Version note: 
 
