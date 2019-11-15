@@ -10,5 +10,6 @@ Built in Python, using Atom as text editor.
 
 Version note: 
 
+ * Beta version ends at 0.99
  * major versions are pulled in multiple of 10,eg: First: 0.10, second: 0.20;
  * minor versions can be tagged in between major versions, but they are not necessary, eg? 0.11, 0.12.
