@@ -1,12 +1,15 @@
 # Atik license control
 
-**This project has the intention to build an app to track, control and manage software licenses.
+**This project has the intention to build an app to track, control and manage software licenses.**
+
+* You're welcome to help.
 
 
 ### Tools and environment: 
 
-* You're welcome to help.
-* Built in Python, using Atom as text editor, mysql asdata base
+* Language: Python
+* DataBase: Mysql
+* Text Editor: Atom
 
 ### Version note: 
 
