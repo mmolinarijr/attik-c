@@ -4,7 +4,7 @@
 * You're welcome to help.
 * Built in Python, using Atom as text editor, mysql asdata base
 
-# Version note: 
+## Version note: 
 
  * Beta Version starts at 0.01
  * Beta version only at 0.99
