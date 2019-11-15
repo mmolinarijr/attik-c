@@ -7,7 +7,7 @@
 
 ### Tools and environment: 
 
-* Language: Python
+* _Language:_ Python
 * DataBase: Mysql
 * Text Editor: Atom
 
