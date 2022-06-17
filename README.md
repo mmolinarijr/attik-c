@@ -1,4 +1,4 @@
-# Atik license control
+# Attik License Control
 
 **This project has the intention to build an app to track, control and manage software licenses.**
 
