@@ -7,9 +7,10 @@
 
 ### Tools and environment: 
 
-* _Language:_ Python
-* _DataBase:_ Mysql
-* _Text Editor:_ Atom
+* _Language Front-End:_ Javascript/HTML/
+* _Language Back-End:_ NodeJS
+* _DataBase:_ Mongo
+
 
 ### Version note: 
 
